@@ -27,12 +27,12 @@ Users should be able to:
 
 ### Screenshot
 
-(images/desktop-preview.png)
+![](images/desktop-preview.png)
 
 
 ### Links
 
-- Solution URL:(https://github.com/Amit-Abhishk/3-column-preview-card-component-challenge)
+- Solution URL:[Github](https://github.com/Amit-Abhishk/3-column-preview-card-component-challenge)
 - Live Site URL: 
 
 ## My process
