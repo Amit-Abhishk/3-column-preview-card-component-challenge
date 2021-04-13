@@ -1,0 +1,60 @@
+body{
+    font-size: 15px;
+    font-family:'Lexend Deca', sans-serif;
+    font-weight:400;
+    color:hsla(0,0%,100%,0.75);
+    margin:15% 20%;
+    text-align:center;
+    line-height:1.75;
+}
+.card-body{
+    text-align:left;
+    padding-left:3rem;
+    margin-right:auto;
+}
+h3{
+    font-family: 'Big Shoulders Display', cursive;
+    font-weight:700;
+    color:hsl(0,0%,95%);
+   position:relative;
+   clear:left;
+    padding-left:3rem;
+    text-align:left;
+}
+.btn{
+    margin-top:3rem;
+    margin-bottom:3rem;
+    border-radius:100px;
+}
+.sedans{
+    background-color:hsl(31,71%,52%);
+    padding:0;
+  
+}
+.image{
+    position:relative;
+    float:left;
+    padding:2rem 2rem;
+}
+.sedan-btn{
+    color:hsl(31,71%,52%);
+}
+.suvs{
+    background-color:hsl(184,100%,22%);
+    padding:0;
+}
+.suv-btn{
+color:hsl(184,100%,22%);
+}
+.luxury{
+background-color:hsl(173,100%,22%);
+padding:0;
+}
+.luxury-btn{
+    color:hsl(173,100%,22%);
+}
+.attribution{
+    padding:3rem 2rem;
+    font-size: large;
+
+}
