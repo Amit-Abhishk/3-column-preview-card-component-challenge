@@ -31,8 +31,8 @@ Users should be able to:
 ![](images/mobile-preview.jpeg)
 ### Links
 
-- Solution URL: [Github] (https://github.com/Amit-Abhishk/3-column-preview-card-component-challenge)
-- Live Site URL: [3-column-preview-card]()
+- Solution URL: [Github](https://github.com/Amit-Abhishk/3-column-preview-card-component-challenge)
+- Live Site URL: [3-column-preview-card](https://amit-abhishk.github.io/3-column-preview-card-component-challenge/)
 
 ## My process
 
@@ -57,7 +57,7 @@ I need to brush up my bootstrap concept and need to learn to use media queries f
 
 ## Author
 
-- Website - [3-column-preview]()
+- Website - [3-column-preview](https://amit-abhishk.github.io/3-column-preview-card-component-challenge/)
 - Frontend Mentor - [@Amit-Abhishk](https://www.frontendmentor.io/profile/Amit-Abhishk)
 - Twitter - [@Amit_Abhishk](https://twitter.com/Amit_Abhishk)
 
