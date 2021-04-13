@@ -28,7 +28,7 @@ Users should be able to:
 ### Screenshot
 
 ![](images/desktop-preview.png)
-![](images/mobile-preview.jpeg)
+![](images/mobile-preview.png)
 ### Links
 
 - Solution URL: [Github](https://github.com/Amit-Abhishk/3-column-preview-card-component-challenge)
